@@ -1,4 +1,4 @@
-Blog-Symfony
-============
+ProjectBlog
+===========
 
-A Symfony project created on May 18, 2017, 9:53 am.
+A Symfony project created on May 19, 2017, 5:23 pm.
